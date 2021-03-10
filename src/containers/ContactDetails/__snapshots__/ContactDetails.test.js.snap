@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ContactDetails /> render correctly Contact Details component 1`] = `
+Array [
+  <div
+    className="contact-details"
+  >
+    <h3>
+      Contact Details
+    </h3>
+    <h2>
+      Ms
+      .
+       
+      Anna
+       
+      Jose
+    </h2>
+    <p>
+      Phone number: 
+      0123456
+    </p>
+  </div>,
+  <div>
+    <button
+      className="button"
+      onClick={[Function]}
+    >
+      Home
+    </button>
+  </div>,
+]
+`;

@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Persons /> render correctly Persons component 1`] = `
+Array [
+  <div>
+    <h3>
+      Address Book
+    </h3>
+  </div>,
+  <div
+    className="address_book"
+  >
+    <article
+      className="person"
+      onClick={[Function]}
+    >
+      Ms
+      . 
+      Anna
+       
+      Jose
+    </article>
+  </div>,
+]
+`;

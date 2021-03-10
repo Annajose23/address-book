@@ -1,0 +1,18 @@
+.address_book {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+}
+
+div>h3{
+    text-align: center;
+    
+}
+
+@media(min-width:40rem){
+    .address_book{
+        width: 100%;
+    }
+}

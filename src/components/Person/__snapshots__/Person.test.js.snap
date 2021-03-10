@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`person render correctly Person component 1`] = `
+<article
+  className="person"
+  onClick={[Function]}
+>
+  Ms
+  . 
+  anna
+   
+  jose
+</article>
+`;

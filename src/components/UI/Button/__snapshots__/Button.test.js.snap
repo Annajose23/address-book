@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button render correctly button component 1`] = `
+<button
+  className="button"
+  onClick={[MockFunction]}
+/>
+`;

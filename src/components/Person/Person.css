@@ -1,0 +1,17 @@
+.person {
+    width: 500px;
+    padding: 16px;
+    text-align: center;
+    border: 1px solid #eee;
+    display: inline-block;
+    margin: 10px;
+    box-sizing: border-box;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.person:hover,
+.person:active {
+    background-color: #242526;
+}
+
