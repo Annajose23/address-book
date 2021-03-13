@@ -1,0 +1,19 @@
+nav{
+    text-align: center;
+}
+
+ul>li{
+    text-decoration: none;
+    padding: 0.5rem;
+    border:1px solid white;
+    margin: 0 1rem;
+    cursor: pointer;
+    display: inline-block;
+}
+
+ul>li:hover,
+ul>li:active,
+ul>li.active{
+    background-color: white;
+    color: black;
+}
